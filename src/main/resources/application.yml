@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: QuoraApp
+    name: TypeAheadSearch
 
   data:
     mongodb:
